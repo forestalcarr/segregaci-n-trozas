@@ -1,4 +1,5 @@
 # SIGUIENTES PASOS
+* Pasar el archivo .py a un formato .ipynb.
 * Mejorar el formato del archivo excel generado: texto centrado, celdas ajustadas al ancho del texto.
 * Mejorar los gráficos.
 * Generar un reporte en un documento word o pdf.
